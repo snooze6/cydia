@@ -1,0 +1,75 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## SSL Kill Switch\nBlackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps. Second iteration of https://github.com/iSECPartners/ios-ssl-kill-switch ."
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "0.14",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "Dec 3, 2019",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "nabla-c0d3",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Website",
+					"action": "https://github.com/nabla-c0d3/ssl-kill-switch2",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Use This Template",
+					"action": "https://github.com/syns/repo.me",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "0.14 - First Release",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

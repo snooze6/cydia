@@ -1,0 +1,36 @@
+<package>
+	<id>com.nablac0d3.sslkillswitch2</id>
+	<name>SSL Kill Switch</name>
+	<version>0.14</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps. Second iteration of https://github.com/iSECPartners/ios-ssl-kill-switch ./shortDescription>
+	<descriptionlist>
+		<description>Once loaded into an iOS or OS X App, SSL Kill Switch 2 patches specific low-level SSL functions within the Secure Transport API in order to override, and disable the system's default certificate validation as well as any kind of custom certificate validation (such as certificate pinning).</description>
+		<description>It was successfully tested against various Apps implementing certificate pinning including the Apple App Store. The first version of SSL Kill Switch was initially released at Black Hat Vegas 2012.</description>
+		<description>For more technical details on how it works, see http://nabla-c0d3.github.io/blog/2013/08/20/ios-ssl-kill-switch-v0-dot-5-released/</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is the settings screen</description>
+			<image>charles.png/image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>First release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

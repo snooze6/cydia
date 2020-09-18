@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Fri, 18 Sep 2020 21:23:09 +0000
+Description: Just Snooze's random stuff
+Label: Random Stuff
+Origin: https://snooze.ninja/repo/cydia/index.html
+Suite: stable
+Version: 1.0
+MD5Sum:
+ d46c0743b0d0df905dea124063434db9              769 Packages
+ 40dd7a75ec615c74d395ba102aa05f01              578 Packages.bz2
+ 948abf03b92f842888e65a94bfb13d6d              526 Packages.gz
+ c19960529ba73dd4a6c9f980db660330              592 Packages.xz
+ d7bdcf32f6b222d925d91fcc3f3b6c43              521 Packages.zst
+ 0e8c0db8687b46b50cc8ea8f7abba8fd              235 Release
+SHA1:
+ e2f3d736849b5a6a658615f68a5dae3afb816013              769 Packages
+ 6355c01b64ff08bf547937828f898bba8771e237              578 Packages.bz2
+ 635499a325fd96fd910d8843a13d9ee3307daa29              526 Packages.gz
+ 8bfb6718366fbd2575cf910ae71ce66cf597b74a              592 Packages.xz
+ 32e5f389689170af2a935273a7abf5212b3c5052              521 Packages.zst
+ 720b94439efa9a34ec7fa8199e383ca96cbd9e70              235 Release
+SHA256:
+ 246c667244e5c62aa98389d9d9d26cac003a46454e6404f15bdf11ff5422ce2c              769 Packages
+ 19a8d8c1fb0f2e3e4a873399764c2e47400fae7ba6ab232a8cf7011d49e666b8              578 Packages.bz2
+ cdbcf7e7aeffb974d315b17b585ef85286b9234ad5dceeccdac407f2efbb2878              526 Packages.gz
+ 211fa3b6ab1f4a7ef73e58f9f773dea8c95ba1299210bf9531b024c64633a460              592 Packages.xz
+ 371b4f09899783b9eadb744cbaea5a68b6bdff06af4c06f15d08617d191cff42              521 Packages.zst
+ a14ae94a78e3e51d1b290857116bc0a2f3b950f81f1543447d9a7d6b10231934              235 Release
+SHA512:
+ 64816615e8089d26f0554f87c77c8e2ae43a287eeb65bbf2d774c3a3e5b553c2e1192bed629d3e9db150bbdef1502d0f73f5d1031f584be9ea302c57cd877a71              769 Packages
+ 9c369420a861d274ae73f31d1cf889210646da4c2eb9cb42c7f68e3f1f964eb823d5699bad140c5bea5f6fe7d9078357942f90dd194a50c1184664a643a1270c              578 Packages.bz2
+ f17ab7f6fcb90b271b9cdbbc11f3c48c68120d90ddaddb35c173d42f8e2d56b9290cdca8a2564ba6ac6725c22110388376b60325fed3a8b94c346074e958f560              526 Packages.gz
+ fd3162158a79420d70563ec343b5450a0bd13b8af297e1355eda046e62ec687b12a28dd98e48cbfbfc991fc715c17c551d0f5b4e605f8fee5866a6a3e89d5517              592 Packages.xz
+ 310c215e460effe28212deafa0a04d6b8759e74d6b910e2565a39674ee5a782b647a74d68914ebea5af47002d049169a8a56ee4007ce1217031f3713fd26aaf6              521 Packages.zst
+ 699c3b11bc7bf0496a12c33349be822d5ce044a4b85cbd125a70c6de07a0c83be276fe098d060ef39ed791bc39f60b4bbb85821539291cc3d8a43c6618a66a57              235 Release
